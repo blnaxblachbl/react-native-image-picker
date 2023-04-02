@@ -1,4 +1,4 @@
-# react-native-image-picker 🎆
+#Fork of react-native-image-picker 🎆
 
 A React Native module that allows you to select a photo/video from the device library or camera.
 
